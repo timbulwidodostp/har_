@@ -1,0 +1,4 @@
+D 'cvmtest': K-sample Cramer-von Mises equality-of-distributions test Use cvmtest With STATA 19
+D
+F cvmtest.ado
+F cvmtest.sthlp
