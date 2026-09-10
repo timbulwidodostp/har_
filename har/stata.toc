@@ -2,4 +2,4 @@
 1
 2
 3
-p cvmtest K-sample Cramer-von Mises equality-of-distributions test Use cvmtest With STATA 19
+p har Regression with heteroskedasticity- and autocorrelation-robust(HAR) standard errors Use har With STATA 19
